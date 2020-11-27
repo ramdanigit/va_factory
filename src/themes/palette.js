@@ -53,7 +53,7 @@ const palette = {
     default: "#F4F6F8",
     paper: white,
   },
-  icon: colors.blueGrey[600],
+  icon: black,
   divider: colors.grey[200],
 };
 
