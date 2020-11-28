@@ -5,6 +5,7 @@ import { ThemeProvider } from "@material-ui/styles";
 import { Router } from "react-router-dom";
 import { createBrowserHistory } from "history";
 import "antd/dist/antd.css";
+import "react-perfect-scrollbar/dist/css/styles.css";
 
 const browserHistory = createBrowserHistory();
 

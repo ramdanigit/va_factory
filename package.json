@@ -1,4 +1,5 @@
 {
+  "homepage": "http://ramdanigit.github.io/va_factory",
   "name": "va_vactory",
   "version": "0.1.0",
   "private": true,
@@ -11,6 +12,7 @@
     "antd": "^4.8.6",
     "history": "^5.0.0",
     "react": "^17.0.1",
+    "react-clamp-lines": "^3.0.2",
     "react-dom": "^17.0.1",
     "react-perfect-scrollbar": "^1.5.8",
     "react-router-dom": "^5.2.0",
@@ -21,7 +23,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -40,5 +44,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }

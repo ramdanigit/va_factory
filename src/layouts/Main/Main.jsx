@@ -1,4 +1,5 @@
 import React from "react";
+import PerfectScrollbar from "react-perfect-scrollbar";
 import { NavBar, BottomNav } from "./components";
 import { Box } from "@material-ui/core";
 import { Home, AccountCircle } from "@material-ui/icons";
@@ -29,7 +30,7 @@ function Main(props) {
     <div className={classes.root}>
       <NavBar />
       <Box bgcolor="#f5f5f5" height="100%">
-        {children}
+        <PerfectScrollbar>{children}</PerfectScrollbar>
       </Box>
       <Box position="static">
         <BottomNav data={dataBottomNav} />
