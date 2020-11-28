@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/va_vactory/static/css/main.60db4c5d.chunk.css",
+    "main.js": "/va_vactory/static/js/main.9bb117e1.chunk.js",
+    "main.js.map": "/va_vactory/static/js/main.9bb117e1.chunk.js.map",
+    "runtime-main.js": "/va_vactory/static/js/runtime-main.3be4215b.js",
+    "runtime-main.js.map": "/va_vactory/static/js/runtime-main.3be4215b.js.map",
+    "static/css/2.e5bda070.chunk.css": "/va_vactory/static/css/2.e5bda070.chunk.css",
+    "static/js/2.7f3fc649.chunk.js": "/va_vactory/static/js/2.7f3fc649.chunk.js",
+    "static/js/2.7f3fc649.chunk.js.map": "/va_vactory/static/js/2.7f3fc649.chunk.js.map",
+    "static/js/3.a3d1363d.chunk.js": "/va_vactory/static/js/3.a3d1363d.chunk.js",
+    "static/js/3.a3d1363d.chunk.js.map": "/va_vactory/static/js/3.a3d1363d.chunk.js.map",
+    "index.html": "/va_vactory/index.html",
+    "static/css/2.e5bda070.chunk.css.map": "/va_vactory/static/css/2.e5bda070.chunk.css.map",
+    "static/css/main.60db4c5d.chunk.css.map": "/va_vactory/static/css/main.60db4c5d.chunk.css.map",
+    "static/js/2.7f3fc649.chunk.js.LICENSE.txt": "/va_vactory/static/js/2.7f3fc649.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/va_vactory/static/media/Poppins-Regular.1421a94e.otf",
+    "static/media/banner.f097cabe.png": "/va_vactory/static/media/banner.f097cabe.png",
+    "static/media/banner2.d076c117.png": "/va_vactory/static/media/banner2.d076c117.png",
+    "static/media/product.2f14f4af.png": "/va_vactory/static/media/product.2f14f4af.png",
+    "static/media/va_factory.43d4dcdf.png": "/va_vactory/static/media/va_factory.43d4dcdf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3be4215b.js",
+    "static/css/2.e5bda070.chunk.css",
+    "static/js/2.7f3fc649.chunk.js",
+    "static/css/main.60db4c5d.chunk.css",
+    "static/js/main.9bb117e1.chunk.js"
+  ]
+}
