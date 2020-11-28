@@ -13,14 +13,15 @@ const useStyles = makeStyles({
   },
 });
 
-function TabProduk() {
+function TabProduk(props) {
+  const { title, subTitle } = props;
   const classes = useStyles();
   return (
     <div className={classes.root}>
       <Box fontSize="17px" flexGrow={1}>
-        Paling Populer
+        {title}
       </Box>
-      Lihat Lebih
+      {subTitle}
       <IconButton aria-label="tab">
         <ChevronRightIcon />
       </IconButton>
