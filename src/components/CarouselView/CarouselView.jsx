@@ -1,5 +1,4 @@
 import React from "react";
-import Banner from "assets/img/banner.png";
 import { Carousel } from "antd";
 
 const contentStyle = {
@@ -11,12 +10,19 @@ const contentStyle = {
 };
 
 function CarouselView(props) {
+  const { data } = props;
   return (
     <React.Fragment>
       <Carousel autoplay>
-        <div style={contentStyle}>
-          <img src={Banner} alt="banner" height="160px" />
-        </div>
+        {data.map((value, index) => (
+          <div style={contentStyle} key={index}>
+            <img
+              src={value.img ? value.img : ""}
+              alt={value.alt ? value.alt : ""}
+              height="160px"
+            />
+          </div>
+        ))}
       </Carousel>
       ,
     </React.Fragment>
