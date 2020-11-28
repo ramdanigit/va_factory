@@ -43,8 +43,13 @@ function NavBar() {
   return (
     <React.Fragment>
       <AppBar position="static" color="primary" className={classes.appbar}>
-        {/* <Toolbar classes={{ root: classes.toolbar }}> */}
-        <Box width="100%" height="100%" display="flex" alignItems="center">
+        <Box
+          width="100%"
+          height="100%"
+          display="flex"
+          alignItems="center"
+          padding="0 7px"
+        >
           <IconButton
             edge="start"
             classeName={classes.menuButton}
@@ -53,7 +58,6 @@ function NavBar() {
           >
             <MenuIcon className={classes.menuButton} />
           </IconButton>
-          {/* </Box> */}
           <Box
             height="100%"
             width="100%"
@@ -63,11 +67,9 @@ function NavBar() {
             justifyContent="center"
             color="#000000"
           >
-            {/* <img src={Logo} alt="logo" height="20px" />
-             */}
             VA Factory
           </Box>
-          {/* <Box width="10%"> */}
+
           <IconButton
             edge="start"
             classeName={classes.menuButton}
@@ -77,7 +79,6 @@ function NavBar() {
             <ShoppingCartIcon className={classes.menuButton} />
           </IconButton>
         </Box>
-        {/* </Toolbar> */}
       </AppBar>
     </React.Fragment>
   );

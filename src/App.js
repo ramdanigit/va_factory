@@ -4,6 +4,7 @@ import themes from "./themes";
 import { ThemeProvider } from "@material-ui/styles";
 import { Router } from "react-router-dom";
 import { createBrowserHistory } from "history";
+import "antd/dist/antd.css";
 
 const browserHistory = createBrowserHistory();
 
