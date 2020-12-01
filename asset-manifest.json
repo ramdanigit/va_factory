@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/va_factory/static/css/main.c8aac6e8.chunk.css",
-    "main.js": "/va_factory/static/js/main.d7464669.chunk.js",
-    "main.js.map": "/va_factory/static/js/main.d7464669.chunk.js.map",
-    "runtime-main.js": "/va_factory/static/js/runtime-main.876096cb.js",
-    "runtime-main.js.map": "/va_factory/static/js/runtime-main.876096cb.js.map",
-    "static/css/2.e5bda070.chunk.css": "/va_factory/static/css/2.e5bda070.chunk.css",
-    "static/js/2.58ca1ab6.chunk.js": "/va_factory/static/js/2.58ca1ab6.chunk.js",
-    "static/js/2.58ca1ab6.chunk.js.map": "/va_factory/static/js/2.58ca1ab6.chunk.js.map",
-    "static/js/3.0f040097.chunk.js": "/va_factory/static/js/3.0f040097.chunk.js",
-    "static/js/3.0f040097.chunk.js.map": "/va_factory/static/js/3.0f040097.chunk.js.map",
+    "main.css": "/va_factory/static/css/main.989bbdaa.chunk.css",
+    "main.js": "/va_factory/static/js/main.79d76cde.chunk.js",
+    "main.js.map": "/va_factory/static/js/main.79d76cde.chunk.js.map",
+    "runtime-main.js": "/va_factory/static/js/runtime-main.6882c8b0.js",
+    "runtime-main.js.map": "/va_factory/static/js/runtime-main.6882c8b0.js.map",
+    "static/css/2.28266b47.chunk.css": "/va_factory/static/css/2.28266b47.chunk.css",
+    "static/js/2.852a5006.chunk.js": "/va_factory/static/js/2.852a5006.chunk.js",
+    "static/js/2.852a5006.chunk.js.map": "/va_factory/static/js/2.852a5006.chunk.js.map",
+    "static/js/3.7044bcbf.chunk.js": "/va_factory/static/js/3.7044bcbf.chunk.js",
+    "static/js/3.7044bcbf.chunk.js.map": "/va_factory/static/js/3.7044bcbf.chunk.js.map",
     "index.html": "/va_factory/index.html",
-    "static/css/2.e5bda070.chunk.css.map": "/va_factory/static/css/2.e5bda070.chunk.css.map",
-    "static/css/main.c8aac6e8.chunk.css.map": "/va_factory/static/css/main.c8aac6e8.chunk.css.map",
-    "static/js/2.58ca1ab6.chunk.js.LICENSE.txt": "/va_factory/static/js/2.58ca1ab6.chunk.js.LICENSE.txt",
+    "static/css/2.28266b47.chunk.css.map": "/va_factory/static/css/2.28266b47.chunk.css.map",
+    "static/css/main.989bbdaa.chunk.css.map": "/va_factory/static/css/main.989bbdaa.chunk.css.map",
+    "static/js/2.852a5006.chunk.js.LICENSE.txt": "/va_factory/static/js/2.852a5006.chunk.js.LICENSE.txt",
     "static/media/index.css": "/va_factory/static/media/Poppins-Regular.1421a94e.otf",
     "static/media/banner.f097cabe.png": "/va_factory/static/media/banner.f097cabe.png",
     "static/media/banner2.d076c117.png": "/va_factory/static/media/banner2.d076c117.png",
+    "static/media/bossman.2df5cd3a.jpg": "/va_factory/static/media/bossman.2df5cd3a.jpg",
     "static/media/product.2f14f4af.png": "/va_factory/static/media/product.2f14f4af.png",
     "static/media/product2.e138abf5.png": "/va_factory/static/media/product2.e138abf5.png",
     "static/media/product3.03056a1b.png": "/va_factory/static/media/product3.03056a1b.png",
@@ -25,10 +26,10 @@
     "static/media/va_factory.43d4dcdf.png": "/va_factory/static/media/va_factory.43d4dcdf.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.876096cb.js",
-    "static/css/2.e5bda070.chunk.css",
-    "static/js/2.58ca1ab6.chunk.js",
-    "static/css/main.c8aac6e8.chunk.css",
-    "static/js/main.d7464669.chunk.js"
+    "static/js/runtime-main.6882c8b0.js",
+    "static/css/2.28266b47.chunk.css",
+    "static/js/2.852a5006.chunk.js",
+    "static/css/main.989bbdaa.chunk.css",
+    "static/js/main.79d76cde.chunk.js"
   ]
 }
