@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/va_factory/static/css/main.44db6401.chunk.css",
-    "main.js": "/va_factory/static/js/main.e4bdc750.chunk.js",
-    "main.js.map": "/va_factory/static/js/main.e4bdc750.chunk.js.map",
-    "runtime-main.js": "/va_factory/static/js/runtime-main.6882c8b0.js",
-    "runtime-main.js.map": "/va_factory/static/js/runtime-main.6882c8b0.js.map",
+    "main.js": "/va_factory/static/js/main.92e2704d.chunk.js",
+    "main.js.map": "/va_factory/static/js/main.92e2704d.chunk.js.map",
+    "runtime-main.js": "/va_factory/static/js/runtime-main.df02bf7a.js",
+    "runtime-main.js.map": "/va_factory/static/js/runtime-main.df02bf7a.js.map",
     "static/css/2.28266b47.chunk.css": "/va_factory/static/css/2.28266b47.chunk.css",
-    "static/js/2.852a5006.chunk.js": "/va_factory/static/js/2.852a5006.chunk.js",
-    "static/js/2.852a5006.chunk.js.map": "/va_factory/static/js/2.852a5006.chunk.js.map",
-    "static/js/3.7044bcbf.chunk.js": "/va_factory/static/js/3.7044bcbf.chunk.js",
-    "static/js/3.7044bcbf.chunk.js.map": "/va_factory/static/js/3.7044bcbf.chunk.js.map",
+    "static/js/2.84031e6f.chunk.js": "/va_factory/static/js/2.84031e6f.chunk.js",
+    "static/js/2.84031e6f.chunk.js.map": "/va_factory/static/js/2.84031e6f.chunk.js.map",
+    "static/js/3.3a5fd7be.chunk.js": "/va_factory/static/js/3.3a5fd7be.chunk.js",
+    "static/js/3.3a5fd7be.chunk.js.map": "/va_factory/static/js/3.3a5fd7be.chunk.js.map",
     "index.html": "/va_factory/index.html",
     "static/css/2.28266b47.chunk.css.map": "/va_factory/static/css/2.28266b47.chunk.css.map",
     "static/css/main.44db6401.chunk.css.map": "/va_factory/static/css/main.44db6401.chunk.css.map",
-    "static/js/2.852a5006.chunk.js.LICENSE.txt": "/va_factory/static/js/2.852a5006.chunk.js.LICENSE.txt",
+    "static/js/2.84031e6f.chunk.js.LICENSE.txt": "/va_factory/static/js/2.84031e6f.chunk.js.LICENSE.txt",
     "static/media/index.css": "/va_factory/static/media/Poppins-Regular.1421a94e.otf",
     "static/media/banner.f097cabe.png": "/va_factory/static/media/banner.f097cabe.png",
     "static/media/banner2.d076c117.png": "/va_factory/static/media/banner2.d076c117.png",
@@ -26,10 +26,10 @@
     "static/media/va_factory.43d4dcdf.png": "/va_factory/static/media/va_factory.43d4dcdf.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6882c8b0.js",
+    "static/js/runtime-main.df02bf7a.js",
     "static/css/2.28266b47.chunk.css",
-    "static/js/2.852a5006.chunk.js",
+    "static/js/2.84031e6f.chunk.js",
     "static/css/main.44db6401.chunk.css",
-    "static/js/main.e4bdc750.chunk.js"
+    "static/js/main.92e2704d.chunk.js"
   ]
 }
